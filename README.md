@@ -1,1 +1,2 @@
-# AIICBFF-CSA-
+# AIICBFF-CSA
+# Implementation of a  reliable architecture called Adaptive Multilevel Inter and Intra Convolutional Block Feature Fusion with Channel Spatial Attention (AIICBFF-CSA) that carries out end-to-end feature fusion in order to derive discriminative representations from pictures. This architecture derives the features from different multi-level blocks of Resnet50 architectures. Channel and Spatial attention are performed on the obtained features using Convolutional Block Attention Module (CBAM), and they are fused together after passing through a Global Average Pooling and Dense layer
